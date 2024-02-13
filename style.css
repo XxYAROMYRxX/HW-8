@@ -1,0 +1,72 @@
+#greycol{
+    color: grey;
+}
+.yellow{
+    color: yellow;
+}
+div p:first-child{
+    color: red;
+}
+.text-box :nth-child(7){
+    color: green;
+}
+h3:first-child{
+    color: pink;
+}
+.school-week{
+    cursor: cell;
+}
+#day1{
+    color: blueviolet;
+}
+#day2{
+    color: forestgreen;
+}
+#day3{
+    color: rgb(47, 87, 85);
+}
+#day4{
+    color: mediumaquamarine
+}
+#day5{
+    color: rgb(62, 0, 13);
+}
+p{
+    border: inherit;
+}
+li:hover:nth-child(1){
+    background-color: gold;
+}
+li:hover:nth-child(2){
+    background-color: rgb(80, 98, 27);
+}
+li:hover:nth-child(3){
+    background-color: brown;
+}
+li:hover:nth-child(4){
+    background-color: pink;
+}
+li:hover:nth-child(5){
+    background-color: rgb(0, 216, 83);
+}
+li:hover:nth-child(6){
+    background-color: rgb(255, 102, 0);
+}
+li:hover:nth-child(7){
+    background-color: rgb(255, 41, 119);
+}
+#day1:hover{
+    background-color: aqua;
+}
+#day2:hover{
+    background-color: blue;
+}
+#day3:hover{
+    background-color: chocolate;
+}
+#day4:hover{
+    background-color: crimson;
+}
+#day5:hover{
+    background-color: deepskyblue;
+}
